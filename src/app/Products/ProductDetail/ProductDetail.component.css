@@ -1,0 +1,20 @@
+div.card-footer {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px 15px;
+  background-color: #fff;
+  border-top: none;
+}
+
+.btn {
+  margin-right: 3px;;
+}
+.img-thumbnail{
+  margin: 25px;
+  width: 85%;
+  height: 85%;
+}
+
+.card-body {
+  padding: 0 25px;
+}
